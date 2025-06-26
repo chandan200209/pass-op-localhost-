@@ -34,6 +34,8 @@ It’s ideal for developers and non-technical users alike who are looking for a 
 - Node.js
 - Express.js
 
+  ### Project Structure
+```
 passop/
 │
 ├── backend/
@@ -47,3 +49,4 @@ passop/
 │   │   ├── App.jsx
 │   │   └── main.jsx
 │   └── tailwind.config.js
+```
